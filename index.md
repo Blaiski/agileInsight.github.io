@@ -1,6 +1,8 @@
 # Welcome to AgileInsight Profile Page
 
-AgileInsight is a vscode extension created as part of my doctoral research. It 
+AgileInsight is a vscode extension created as part of my doctoral research. As user, it offers the following:
+- Integrates your agile dashboard such as Jira or Trello into your vscode development envrionment
+- 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
