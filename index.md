@@ -2,7 +2,10 @@
 
 AgileInsight is a vscode extension created as part of my doctoral research. As user, it offers the following:
 - Integrates your agile dashboard such as Jira or Trello into your vscode development envrionment
-- 
+- You can inspect, read, and 
+- Allows you to tag your source code items (e.g., methods, or files) to the specific issues or user stories that you are working on
+- Once tagged, your source code items become tightly linked to the design items (i.e., issues, bugs, etc) that relates to them
+- You can see 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
