@@ -6,12 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+https://user-images.githubusercontent.com/31612240/177704524-8da9027a-1232-4ce3-8e60-4498843838e9.mp4
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-https://user-images.githubusercontent.com/31612240/177704524-8da9027a-1232-4ce3-8e60-4498843838e9.mp4
+
 
 
 
