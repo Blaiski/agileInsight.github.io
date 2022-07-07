@@ -8,10 +8,10 @@ AgileInsight is a vscode extension created as part of my doctoral research. As u
 - Once tagged, your source code items become tightly linked to the design items (i.e., issues, bugs, etc) that relates to them
 - You can point to a card or issue to readily see all the code items related, and vice versa
 ### Software Visualisation Benefits:
-- AgileInsight can visualise your source code using a state of the art visualisation technique called city metahpor (or software map) visualisation^*. 
-- It visualisation cleverly brings out your source code structure allowing you to visually see the building blocks that make up your system--from folder or packages, down to files and individual methods inside.
-- No matter what programming or scripting language your source code is, as long as your vscode editor can read it then AgileInsight should be able visualise it
-- The visualisation
+- AgileInsight can visualise your source code using a state of the art 3D visualisation technique called city metahpor (or software map) visualisation^*. 
+- The visualisation cleverly brings out your source code structure, allowing you to visually see the building blocks that make up your system (from folder or packages, down to files and individual methods inside).
+- It is language-agnostic, so no matter what programming or scripting language your source code is, as long as your vscode editor can read it then AgileInsight should be able visualise it
+- Once visualised, you can interact with the building blocks of your system right in vscode, get to explore and navigate through it in a new way.
 - * This is based on heirarchical treemap containment [#Ref CodeCity, SoftwareMap, and that old original work]
 - 
 
