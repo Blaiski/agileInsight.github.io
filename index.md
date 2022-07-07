@@ -5,7 +5,9 @@ You can use the [editor on GitHub](https://github.com/Blaiski/agileInsight.githu
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <figure class="video_container">
-  <iframe src="https://user-images.githubusercontent.com/31612240/177704524-8da9027a-1232-4ce3-8e60-4498843838e9.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+  <video controls="true" allowfullscreen="true" poster="Screen Shot 2022-04-12 at 12.37.28 AM.png">
+    <source src="Agile Dashboard Integration (Contextual Actions).mp4" type="video/mp4">
+  </video>
 </figure>
 
 ### Markdown
@@ -37,6 +39,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
