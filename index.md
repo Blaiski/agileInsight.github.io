@@ -1,6 +1,6 @@
 # Welcome to AgileInsight Profile Page
 
-AgileInsight is a vscode extension created as part of my doctoral research. As user, it offers you the following benefits:
+AgileInsight is a vscode extension created as part of my doctoral research. As user, it offers you the following:
 ### Artefact Traceability Benefits:
 - Integrates your agile dashboard such as Jira or Trello into your vscode development envrionment
 - Allows to inspect, read, comment on, and do all the common actions on your cards right within vscode
@@ -8,7 +8,8 @@ AgileInsight is a vscode extension created as part of my doctoral research. As u
 - Once tagged, your source code items become tightly linked to the design items (i.e., issues, bugs, etc) that relates to them
 - You can point to a card or issue to readily see all the code items related, and vice versa
 ### Software Visualisation Benefits:
-
+- AgileInsight can visualise your source code using a state of the art visualisation technique based on heirarchical treemap containment [Ref]
+- 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
