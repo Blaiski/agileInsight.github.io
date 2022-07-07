@@ -1,6 +1,6 @@
-## Welcome to AgileInsight Profile Page
+# Welcome to AgileInsight Profile Page
 
-You can use the [editor on GitHub](https://github.com/Blaiski/agileInsight.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+AgileInsight is a vscode extension created as part of my doctoral research. It 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
