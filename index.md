@@ -10,7 +10,6 @@ AgileInsight is a vscode extension created as part of my doctoral research. As u
 ### Software Visualisation Benefits:
 - AgileInsight can visualise your source code using a state of the art visualisation technique called city metahpor (or software map) visualisation^*. 
 - It visualisation cleverly brings out your source code structure allowing you to visually see the building blocks that make up your system--from folder or packages, down to files and individual methods inside.
-- 
 - No matter what programming or scripting language your source code is, as long as your vscode editor can read it then AgileInsight should be able visualise it
 - The visualisation
 - * This is based on heirarchical treemap containment [#Ref CodeCity, SoftwareMap, and that old original work]
