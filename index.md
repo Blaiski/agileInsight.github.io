@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/Blaiski/agileInsight.githu
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <figure class="video_container">
-  <video width="560" height="360" controls="true" allowfullscreen="true" poster="Screen Shot 2022-04-12 at 12.37.28 AM.png">
+  <video width="1024" height="576" controls="true" allowfullscreen="true" poster="Screen Shot 2022-04-12 at 12.37.28 AM.png">
     <source src="Agile Dashboard Integration (Contextual Actions).mp4" type="video/mp4">
   </video>
 </figure>
