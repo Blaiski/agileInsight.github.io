@@ -31,28 +31,39 @@ and videos demonstrating various funcitonalities in aciton.
 
 
 ### 2. Authorising Access to your Jira or Trello Dashboard
+>TODO: include a video with shour description
 ▶︎ *Note that AgileInsight does not store or cache your data. Any fetch or update operation is done live and hence requires an internet connection.* 
-
 ▶︎ _Authorisation is only needed once, and will be retained across different workspaces of your vscode._
 
 
 ### 3. Your Agile Dashboard Explorer
-
+>TODO: include a video with shour description. should show the contextual actions
 
 ### 4. Tagging Your source code
-
+>TODO: include a video with shour description. show the main methods: 
+#### On-Commit:
+#### CI Initiated:
+#### DI Initiated:
 
 ### 5. Discover the landscape of your system 
 Visualising and Exploring your Source Code
-
+>TODO: include a video with shour description. Include pics too.
 
 ### 6. Interacting with your design items in source code (Contextual actions and artefact traceability)
-
+>TODO: include mostly pics I think.
 
 ### 7. Interacting with your visualised system
-
+>TODO: include a video with shour description.
 
 ### 8. Find how the implementation of your issue or user story is distributed across your system
+>TODO: include a video with shour description. Include pics too.
+
+## Showcase of landscape visualisation of various open-source systems
+*Note that the visualisation shows extensive components because the entire master (or main) branch is used. The date refers to the date that the repository was pulled*
+### KERAS
+### VSCODE
+### APS.NET Boilerplate
+### 
 
 
 
