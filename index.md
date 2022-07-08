@@ -19,7 +19,8 @@ AgileInsight is a vscode extension created as part of my doctoral research[^thes
 - Once visualised, you will be able to interact with the building blocks of your system right in vscode, and get to explore and navigate through it in a new way.
 - And of course, if your source code is all tagged and linked, then you can point to an issue or card in the explorer, and get to see where exactly it is implemented, and how it is distributed across the landscape of your source code.
 
-</br>
+<br></br>
+
 ```
 Below is a lightweight showcase of AgileInsight's key features with screenshots and videos demonstrating various funcitonalities in aciton.
 ```
