@@ -1,7 +1,8 @@
 # Welcome to AgileInsight Profile Page
 
 AgileInsight is a vscode extension created as part of my doctoral research[^thesis]. As user, it offers you the following:
-[^thesis]: Add Link to thesis once published.
+
+[^thesis]: <sub>Add Link to thesis once published.</sub>
 
 ## Artefact Traceability Benefits:
 - Integrates your agile dashboard such as Jira or Trello into your vscode development envrionment
