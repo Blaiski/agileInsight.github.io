@@ -35,17 +35,24 @@ and videos demonstrating various funcitonalities in aciton.
 
 ▶︎ _Authorisation is only needed once, and will be retained across different workspaces of your vscode._
 
+
 ### 3. Your Agile Dashboard Explorer
+
 
 ### 4. Tagging Your source code
 
-### 5. Visualising and Exploring your Source Code
+
+### 5. Discover the landscape of your system 
+Visualising and Exploring your Source Code
+
 
 ### 6. Interacting with your design items in source code (Contextual actions and artefact traceability)
 
+
 ### 7. Interacting with your visualised system
 
-### 8. 
+
+### 8. Find how the implementation of your issue or user story is distributed across your system
 
 
 
