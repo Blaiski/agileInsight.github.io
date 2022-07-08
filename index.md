@@ -30,7 +30,7 @@ and videos demonstrating various funcitonalities in aciton.
 >When you open a workspace or a project folder in vscode, AgileInsight will wait for a few seconds to allow basic extensions (e.g., native git extension) to load. It will then launch a background process to parse source code files in your workspace or project folder. By deafult, it will only parse those files in your 'src' folder. You can configure the type of files or the specific folders that you want to be prased.
 
 ### 2. Authorising Access to your Jira or Trello Dashboard
-▶︎* *Note that AgileInsight does not store or cache your data. Any fetch or update operation is done live and hence requires an internet connection.* * 
+▶︎ *Note that AgileInsight does not store or cache your data. Any fetch or update operation is done live and hence requires an internet connection.* 
 
 ▶︎ _Authorisation is only needed once, and will be retained across different workspaces of your vscode._
 
