@@ -3,10 +3,11 @@
 AgileInsight is a vscode extension created as part of my doctoral research. As user, it offers you the following:
 ### Artefact Traceability Benefits:
 - Integrates your agile dashboard such as Jira or Trello into your vscode development envrionment
-- Allows to inspect, read, comment on, and do all the common actions on your cards right within vscode
+- Allows you to inspect, read, comment on, and do other the common actions on your cards right within vscode
 - Allows you to tag your source code items (e.g., methods, or files) to the specific issues or user stories that you are working on
 - Once tagged, your source code items become tightly linked to the design items (i.e., issues, bugs, etc) that relates to them
-- You can point to a card or issue to readily see all the code items related, and vice versa
+- You will be able to see the tags in the source code, in your GitHub, and in your issue tickets or cards
+- You can then hover on an issue in the source code to see all the code items related to it, and vice versa
 
 ### Software Visualisation Benefits:
 - AgileInsight can visualise your source code using a state of the art 3D visualisation technique called city metahpor (or software map) visualisation^*. 
