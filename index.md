@@ -19,7 +19,8 @@ AgileInsight is a vscode extension created as part of my doctoral research[^thes
 - Once visualised, you will be able to interact with the building blocks of your system right in vscode, and get to explore and navigate through it in a new way.
 - And of course, if your source code is all tagged and linked, then you can point to an issue or card in the explorer, and get to see where exactly it is implemented, and how it is distributed across the landscape of your source code.
 
-Below is a lightweight showcase of AgileInsight's key features with screenshots and videos demonstrating various funcitonalities in aciton.
+
+>Below is a lightweight showcase of AgileInsight's key features with screenshots and videos demonstrating various funcitonalities in aciton.
 
 #### Parsing Your Source Code File:
 When you open a workspace or a project folder in vscode, AgileInsight will wait for a few seconds to allow basic extensions (e.g., native git extension) to load. It will then launch a background process to parse source code files in your workspace or project folder. By deafult, it will only parse those files in your 'src' folder. You can configure the type of files or the specific folders that you want to be prased.
