@@ -22,7 +22,8 @@ AgileInsight is a vscode extension created as part of my doctoral research[^thes
 <br>
 
 ```
-Below is a lightweight showcase of AgileInsight's key features with screenshots<br> and videos demonstrating various funcitonalities in aciton.
+Below is a lightweight showcase of AgileInsight's key features with screenshots
+and videos demonstrating various funcitonalities in aciton.
 ```
 
 #### Parsing Your Source Code File:
