@@ -20,11 +20,10 @@ AgileInsight is a vscode extension created as part of my doctoral research. As u
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<figure class="video_container">
-  <video width="1024" height="576" controls="true" allowfullscreen="true" poster="Screen Shot 2022-04-12 at 12.37.28 AM.png">
-    <source src="Agile Dashboard Integration (Contextual Actions).mp4" type="video/mp4">
-  </video>
-</figure>
+<video width="1024" height="576" controls="true" allowfullscreen="true" poster="Screen Shot 2022-04-12 at 12.37.28 AM.png">
+  <source src="Agile Dashboard Integration (Contextual Actions).mp4" type="video/mp4">
+</video>
+
 
 ### Markdown
 
@@ -51,11 +50,7 @@ Syntax highlighted code block
 ```
 <details>
 <summary markdown="span">First level collapsible item</summary>
-**Lorem ipsum dolor sit amet...**
-<details>
-<summary markdown="span">Second level collapsible item</summary>
-*Sed ut perspiciatis unde omnis iste natus...*
-</details>
+**Lorem ipsum dolor sit amet**
 </details>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
