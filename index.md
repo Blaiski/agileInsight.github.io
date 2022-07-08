@@ -58,7 +58,7 @@ Visualising and Exploring your Source Code
 ### 8. Find how the implementation of your issue or user story is distributed across your system
 >TODO: include a video with shour description. Include pics too.
 
-
+<br>
 ***
 
 
@@ -67,7 +67,7 @@ Visualising and Exploring your Source Code
 ### KERAS
 ### VSCODE
 ### APS.NET Boilerplate
-### 
+### AngularJs
 
 
 
