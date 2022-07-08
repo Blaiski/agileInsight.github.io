@@ -26,7 +26,7 @@ Below is a lightweight showcase of AgileInsight's key features with screenshots
 and videos demonstrating various funcitonalities in aciton.
 ```
 
-#### 1.Parsing Your Source Code File:
+#### 1. Parsing Your Source Code File:
 >When you open a workspace or a project folder in vscode, AgileInsight will wait for a few seconds to allow basic extensions (e.g., native git extension) to load. It will then launch a background process to parse source code files in your workspace or project folder. By deafult, it will only parse those files in your 'src' folder. You can configure the type of files or the specific folders that you want to be prased.
 
 
