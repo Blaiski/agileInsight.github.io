@@ -58,7 +58,9 @@ Visualising and Exploring your Source Code
 ### 8. Find how the implementation of your issue or user story is distributed across your system
 >TODO: include a video with shour description. Include pics too.
 
-===
+
+***
+
 
 ## Showcase of landscape visualisation of various open-source systems
 *Note that the visualisation shows extensive components because the entire master (or main) branch is used. The date refers to the date that the repository was pulled*
