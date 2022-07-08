@@ -20,14 +20,14 @@ AgileInsight is a vscode extension created as part of my doctoral research. As u
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<video width="1024" height="576" controls="true" allowfullscreen="true" poster="Screen Shot 2022-04-12 at 12.37.28 AM.png">
-  <source src="Agile Dashboard Integration (Contextual Actions).mp4" type="video/mp4">
-</video>
+<figure class="video_container">
+  <video width="1024" height="576" controls="true" allowfullscreen="true" poster="Screen Shot 2022-04-12 at 12.37.28 AM.png">
+    <source src="Agile Dashboard Integration (Contextual Actions).mp4" type="video/mp4">
+  </video>
+</figure>
 
 
 ### Markdown
-
-https://user-images.githubusercontent.com/31612240/177704524-8da9027a-1232-4ce3-8e60-4498843838e9.mp4
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
