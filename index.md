@@ -32,7 +32,7 @@ and videos demonstrating various funcitonalities in aciton.
   <source src="video captures/Parsing a Workspace.mp4" type="video/mp4">
 </video>
 
-[^parsing]: Note that due to current limitations with LSP implementation of different languages, AgileInsight will sometimes have to force open some files in order to trigger their language server to fulfil the request. LSP technology is still in its early phases, and future improvements are expected in the near future. Also, the parsing operation is influenced by the behaviour of the individual language server and thus timing can vary between different runs. Here is a nother parsing example of the same workspace: [Another Parsing Run](video captures/Parsing a Workspace2.mp4) 
+[^parsing]: Note that due to current limitations with LSP implementation of different languages, AgileInsight will sometimes have to force open some files in order to trigger their language server to fulfil the request. LSP technology is still in its early phases, and future improvements are expected in the near future. Also, the parsing operation is influenced by the behaviour of the individual language server and thus timing can vary between different runs. Here is a nother parsing example of the same workspace: [Another Parsing Run](https://github.com/Blaiski/agileInsight.page/video captures/Parsing a Workspace2.mp4) 
 
 ### 2. Authorising Access to your Jira or Trello Dashboard
 >TODO: include a video with shour description
