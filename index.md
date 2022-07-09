@@ -48,7 +48,12 @@ and videos demonstrating various funcitonalities in aciton.
 #### DI Initiated:
 
 ### 5. Discover the landscape of your system 
-Visualising and Exploring your Source Code
+Visualising and Exploring your Source Code (>show some open source vis)
+
+#### Interpreting the visualisation
+![Visualisation Keys](https://user-images.githubusercontent.com/31612240/178110883-e8c6295a-451f-4c2e-9f57-3fd93b2322e8.png)
+
+
 >TODO: include a video with shour description. Include pics too.
 
 ### 6. Interacting with your design items in source code (Contextual actions and artefact traceability)
@@ -72,7 +77,8 @@ Visualising and Exploring your Source Code
 ### APS.NET Boilerplate
 ### AngularJs
 
-
+### Dataset Loader
+>Should I include this?
 
 [^1]: <sup>For city metaphor, see [Wettel, Richard, and Michele Lanza. 2007. “Visualizing Software Systems as Cities.” In VISSOFT 2007 - Proceedings of the 4th IEEE International Workshop on Visualizing Software for Understanding and Analysis, 92–99.](https://doi.org/10.1109/VISSOF.2007.4290706) and for software maps see [Bohnet, Johannes, and Jürgen Döllner. 2011. “Monitoring Code Quality and Development Activity by Software Maps.” Proceedings - International Conference on Software Engineering, 9–16.](https://doi.org/10.1145/1985362.1985365). Both are based on the heirarchical treemap containment approach introduced by Johnson and Shneiderman [Johnson, Brian, and Ben Shneiderman. 1991. “Tree-Maps: A Space-Filling Approach to the Visualization of Hierarchical Information Structures.” Proceedings of the 2nd Conference on Visualization 1991, VIS 1991, 284–91.](https://doi.org/10.1109/VISUAL.1991.175815)</sup>
 
