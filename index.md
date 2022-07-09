@@ -28,7 +28,9 @@ and videos demonstrating various funcitonalities in aciton.
 
 ### 1. Parsing Your Source Code Files:
 >When you open a workspace or a project folder in vscode, AgileInsight will wait for a few seconds to allow basic extensions (e.g., native git extension) to load. It will then launch a background process to parse source code files in your workspace or project folder. By deafult, it will only parse those files in your 'src' folder. You can configure the type of files or the specific folders that you want to be prased.
-
+<video width="1240" height="1080" controls="true" allowfullscreen="true" poster="Screen Shot 2022-04-12 at 12.37.28 AM.png">
+  <source src="video captures/Parsing a Workspace.mp4" type="video/mp4">
+</video>
 
 ### 2. Authorising Access to your Jira or Trello Dashboard
 >TODO: include a video with shour description
@@ -47,7 +49,7 @@ and videos demonstrating various funcitonalities in aciton.
 #### CI Initiated:
 #### DI Initiated:
 
-### 5. Discover the landscape of your system 
+### 5. Discovering the landscape of your system 
 Visualising and Exploring your Source Code (>show some open source vis)
 
 #### Interpreting the visualisation
