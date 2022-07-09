@@ -52,6 +52,7 @@ Visualising and Exploring your Source Code (>show some open source vis)
 
 #### Interpreting the visualisation
 ![Visualisation Keys](https://user-images.githubusercontent.com/31612240/178110883-e8c6295a-451f-4c2e-9f57-3fd93b2322e8.png)
+![Visualisation Keys Large](https://user-images.githubusercontent.com/31612240/178110973-b595aabf-df5b-48d9-adb3-c161800eced6.png)
 
 
 >TODO: include a video with shour description. Include pics too.
