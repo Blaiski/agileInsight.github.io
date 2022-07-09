@@ -32,6 +32,7 @@ and videos demonstrating various funcitonalities in aciton.
 
 ### 2. Authorising Access to your Jira or Trello Dashboard
 >TODO: include a video with shour description
+
 ▶︎ *Note that AgileInsight does not store or cache your data. Any fetch or update operation is done live and hence requires an internet connection.*
 
 ▶︎ _Authorisation is only needed once, and will be retained across different workspaces of your vscode._
