@@ -28,11 +28,11 @@ and videos demonstrating various funcitonalities in aciton.
 
 ### 1. Parsing Your Source Code Files:
 >When you open a workspace or a project folder in vscode, AgileInsight will wait for a few seconds to allow basic extensions (e.g., native git extension) to load. It will then launch a background process to parse source code files in your workspace or project folder. By deafult, it will only parse those files in your 'src' folder. You can configure the type of files or the specific folders that you want to be prased.[^parsing]
-<video width="1103" height="846" controls="true" allowfullscreen="true" poster="video captures/Parsing a Workspace.png">
+<video width="1273" height="977" controls="true" allowfullscreen="true" poster="video captures/Parsing a Workspace.png">
   <source src="video captures/Parsing a Workspace.mp4" type="video/mp4">
 </video>
 
-[^parsing]: <sup>Note that due to current limitations with LSP implementation of different languages, AgileInsight will sometimes have to force open some files in order to trigger their language server to fulfil the request. LSP technology is still in its early phases, and future improvements are expected in the near future. Also, the parsing operation is influenced by the behaviour of the individual language server and thus timing can vary between different runs. Here is a nother parsing example of the same workspace: [Another Parsing Run](https://user-images.githubusercontent.com/31612240/178114350-01c29cfe-10b6-40ab-9acc-d6dd4b24e17d.mp4)</sup> 
+[^parsing]: <sup>Note that due to current limitations with LSP implementation of different languages, AgileInsight will sometimes have to force open few files in order to trigger their language server to fulfil the request. LSP technology is still in its early phase, and future improvements are expected in the near future. Also, the parsing operation is influenced by the behaviour of the individual language server, and thus timing can vary between different runs. Here is a nother parsing example of the same workspace: [Another Parsing Run](https://user-images.githubusercontent.com/31612240/178114350-01c29cfe-10b6-40ab-9acc-d6dd4b24e17d.mp4)</sup> 
 
 
 
