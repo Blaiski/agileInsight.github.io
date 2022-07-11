@@ -39,7 +39,11 @@ After AgileInsight has parsed your source code, you can explore the structure of
 #### iTrust
 ![iTrust](/screenshots/iTrust.png)
 
+#### Asp.Net Boilerplate
+![iTrust](/screenshots/ASP.NET Boilerplate.png)
 
+#### Django
+![iTrust](/screenshots/Django.png)
 
 ### 3. Authorising Access to your Jira or Trello Dashboard
 AgileInsight uses oauth to ask permission to access data on your agile dashboards, in much the same way that you would allow vscode and other IDEs to access your source control repository.
