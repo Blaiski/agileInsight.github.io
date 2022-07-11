@@ -42,9 +42,9 @@ AgileInsight uses oauth to ask permission to access data on your agile dashboard
 <video width="1150" height="775" controls="true" allowfullscreen="true" poster="video captures/Auth Demo.png">
   <source src="video captures/Auth Demo.mp4" type="video/mp4">
 </video>
-<sup>▶︎ *Note that AgileInsight does not store or cache your data. Any fetch or update operation is done live and hence requires an internet connection*</sup>
+<sup>▶︎_Note that AgileInsight does not store or cache your data. Any fetch or update operation is done live and hence requires an internet connection_</sup>
 
-<sup>▶︎ _Authorisation is only needed once, and will be retained across different workspaces of your vscode._</sup>
+<sup>▶︎_Authorisation is only needed once, and will be retained across different workspaces of your vscode._</sup>
 
 ### 3. Your Agile Dashboard Explorer
 >TODO: include a video with shour description. should show the contextual actions
