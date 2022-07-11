@@ -37,7 +37,7 @@ When you open a workspace or a project folder in vscode, AgileInsight will wait 
 
 
 ### 2. Authorising Access to your Jira or Trello Dashboard
-AgileInsight uses oauth to ask permission to access data on your agile dashboards, in much the same way that you would allow vscode and other IDEs to access your versioning repositories.
+AgileInsight uses oauth to ask permission to access data on your agile dashboards, in much the same way that you would allow vscode and other IDEs to access your source control repository.
 
 <video width="1150" height="775" controls="true" allowfullscreen="true" poster="video captures/Auth Demo.png">
   <source src="video captures/Auth Demo.mp4" type="video/mp4">
