@@ -38,10 +38,8 @@ When you open a workspace or a project folder in vscode, AgileInsight will wait 
 After AgileInsight has parsed your source code, you can explore the structure of your system using its 3D visualisation feature. Below are screenshots of iTrust (the same system parsed above), along with a couple of well-known open-source systems.
 #### iTrust
 ![iTrust](/screenshots/iTrust.png)
-
 #### Asp.Net Boilerplate
-![iTrust](/screenshots/ASP.NET Boilerplate.png)
-
+![iTrust](/screenshots/ASP.NETBoilerplate.png)
 #### Django
 ![iTrust](/screenshots/Django.png)
 
