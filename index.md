@@ -47,8 +47,11 @@ AgileInsight uses oauth to ask permission to access data on your agile dashboard
 
 <sup>▶︎ _Authorisation is only needed once, and will be retained across different workspaces of your vscode._</sup>
 
-### 3. Your Agile Dashboard Explorer
->TODO: include a video with shour description. should show the contextual actions
+### 3. Your AgileInsight Dashboard Explorer
+AgileInsight integrates your authorised agile developmemt dashboards into vscode, allowing you to access and work with your issues, cards, etc. from vscode. Once source code has been tagged (see below), the code items become effectively synchronised to their related issues, making answers to questions such as "what is this method doing?" or "where is this issue implemented?" to be readily accessible. The visualisation could help with readily assessing the change impact of a certain feature.
+<video width="1162" height="1012" controls="true" allowfullscreen="true" poster="video captures/Dashboard Explorer.png">
+  <source src="video captures/Dashboard Explorer.mp4" type="video/mp4">
+</video>
 
 ### 4. Tagging Your source code
 >TODO: include a video with shour description. show the main methods: 
