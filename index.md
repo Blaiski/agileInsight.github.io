@@ -34,9 +34,14 @@ When you open a workspace or a project folder in vscode, AgileInsight will wait 
 
 [^parsing]: <sup>Note that due to current limitations with LSP implementation of different languages, AgileInsight will sometimes have to force open few files in order to trigger their language server to fulfil the request. LSP technology is still in its early phase, and future improvements are expected in the near future. Also, the parsing operation is influenced by the behaviour of the individual language server, and thus timing can vary between different runs. Here is a nother parsing example of the same workspace: [Another Parsing Run](https://user-images.githubusercontent.com/31612240/178114350-01c29cfe-10b6-40ab-9acc-d6dd4b24e17d.mp4)</sup> 
 
+### 2. Discovering the landscape of your system 
+After AgileInsight has parsed your source code, you can explore the structure of your system using its 3D visualisation feature. Below are screenshots of iTrust (the same system parsed above), along with a couple of well-known open-source systems.
+#### iTrust
+![iTrust](/screenshots/iTrust.png)
 
 
-### 2. Authorising Access to your Jira or Trello Dashboard
+
+### 3. Authorising Access to your Jira or Trello Dashboard
 AgileInsight uses oauth to ask permission to access data on your agile dashboards, in much the same way that you would allow vscode and other IDEs to access your source control repository.
 
 <video width="1150" height="775" controls="true" allowfullscreen="true" poster="video captures/Auth Demo.png">
@@ -47,20 +52,19 @@ AgileInsight uses oauth to ask permission to access data on your agile dashboard
 
 <sup>▶︎ _Authorisation is only needed once, and will be retained across different workspaces of your vscode._</sup>
 
-### 3. Your AgileInsight Dashboard Explorer
+### 4. Your AgileInsight Dashboard Explorer
 AgileInsight integrates your authorised agile developmemt dashboards into vscode, allowing you to access and work with your issues, cards, etc. from vscode. Once source code has been tagged (see below), the code items become effectively synchronised to their related issues, making answers to questions such as "what is this method doing?" or "where is this issue implemented?" to be readily accessible. The visualisation could help with  assessing the impact when a certain feature needs to be changed.
 <video width="1162" height="1012" controls="true" allowfullscreen="true" poster="video captures/Dashboard Explorer.png">
   <source src="video captures/Dashboard Explorer.mp4" type="video/mp4">
 </video>
 
-### 4. Tagging Your source code
+### 5. Tagging Your source code
 >TODO: include a video with shour description. show the main methods: 
 #### On-Commit:
 #### CI Initiated:
 #### DI Initiated:
 
-### 5. Discovering the landscape of your system 
-Visualising and Exploring your Source Code (>show some open source vis)
+
 
 ### 6. Visual Artefact Traceability 
 AgileInsight enables visual artefact traceability right in your vscode. You can jump from an issue right to its individual code items that implements it, and vice versa. The novel visualisation mapping allows you to visually see the location of your issues (or features) across the structure of your system.  
