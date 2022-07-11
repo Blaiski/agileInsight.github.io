@@ -56,8 +56,14 @@ AgileInsight uses oauth to ask permission to access data on your agile dashboard
 #### CI Initiated:
 #### DI Initiated:
 
-### 5. Discovering the landscape of your system 
+### 6. Discovering the landscape of your system 
 Visualising and Exploring your Source Code (>show some open source vis)
+
+#### 5. On the Spot Artefact Traceability 
+AgileInsight enables accessible artefact traceability right in your vscode. You can jump from an issue right to its individual code items that implements it, and vice versa. The novel visualisation mapping allows you to visually see the location of your issues (or features) across the structure of your system.  
+<video width="1213" height="877" controls="true" allowfullscreen="true" poster="video captures/Artefact Traceability with Visualisation.png">
+  <source src="video captures/Artefact Traceability with Visualisation.mp4" type="video/mp4">
+</video>
 
 #### Interpreting the visualisation
 ![Visualisation Keys](https://user-images.githubusercontent.com/31612240/178110883-e8c6295a-451f-4c2e-9f57-3fd93b2322e8.png)
