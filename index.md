@@ -36,10 +36,10 @@ and videos demonstrating various funcitonalities in aciton.
 
 
 
-
-
 ### 2. Authorising Access to your Jira or Trello Dashboard
->TODO: include a video with shour description
+<video width="1150" height="775" controls="true" allowfullscreen="true" poster="video captures/Auth Demo.png">
+  <source src="video captures/Auth Demo.mp4" type="video/mp4">
+</video>
 
 ▶︎ *Note that AgileInsight does not store or cache your data. Any fetch or update operation is done live and hence requires an internet connection.*
 
