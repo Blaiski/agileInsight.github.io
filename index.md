@@ -66,9 +66,10 @@ AgileInsight integrates your authorised agile developmemt dashboards into vscode
 #### CI Initiated:
 #### DI Initiated:
 
+### 6. Interacting with your design items in source code (Contextual actions and artefact traceability)
+>TODO: include mostly pics I think.
 
-
-### 6. Visual Artefact Traceability 
+### 7. Visual Artefact Traceability 
 AgileInsight enables visual artefact traceability right in your vscode. You can jump from an issue right to its individual code items that implements it, and vice versa. The novel visualisation mapping allows you to visually see the location of your issues (or features) across the structure of your system.  
 <video width="1213" height="877" controls="true" allowfullscreen="true" poster="video captures/Artefact Traceability with Visualisation.png">
   <source src="video captures/Artefact Traceability with Visualisation.mp4" type="video/mp4">
@@ -78,14 +79,6 @@ AgileInsight enables visual artefact traceability right in your vscode. You can 
 ![Visualisation Keys](https://user-images.githubusercontent.com/31612240/178110883-e8c6295a-451f-4c2e-9f57-3fd93b2322e8.png)
 Above is an explanation of visualised code items, detailing the color mappings used; White for classes, brown for files, blueish-green for methods & functions, red for structs, pink for namespaces, and beige for folders. The grey platform is the workspace folder. The above visualisation was generated using 10 files of different languages, obtained from real-word open-source systems and placed in a single project folder for demonstration purposes. 
 
-
->TODO: include a video with shour description. Include pics too.
-
-### 6. Interacting with your design items in source code (Contextual actions and artefact traceability)
->TODO: include mostly pics I think.
-
-### 7. Interacting with your visualised system
->TODO: include a video with shour description.
 
 ### 8. Find how the implementation of your issue or user story is distributed across your system
 >TODO: include a video with shour description. Include pics too.
