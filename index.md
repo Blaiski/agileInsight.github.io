@@ -43,7 +43,7 @@ After AgileInsight has parsed your source code, you can explore the structure of
 #### Django
 ![iTrust](/screenshots/Django.png)
 
-### Interpreting the visualisation
+##### 2.1 Interpreting the visualisation
 ![Visualisation Keys](https://user-images.githubusercontent.com/31612240/178110883-e8c6295a-451f-4c2e-9f57-3fd93b2322e8.png)
 Above is an explanation of visualised code items, detailing the color mappings used; White for classes, brown for files, blueish-green for methods & functions, red for structs, pink for namespaces, and beige for folders. The grey platform is the workspace folder. The above visualisation was generated using 10 files of different languages, obtained from real-word open-source systems and placed in a single project folder for demonstration purposes. 
 
