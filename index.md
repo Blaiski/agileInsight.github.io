@@ -96,8 +96,9 @@ A key feature of AgileInsight is to synchronise design items with their code ite
 For example, the clipt below demonstrates how the developer can readily find all the source code items that implement a design item (saving them those long hours wasted on searching, flipping and reading through numerous source files). It shows how a developer or quality engineer can snowball as much as needed, jumping from a design item down to its implementation in source code, from a method down to all the design items that are impacted by it, and so on.
 
 It then shows how the user can make use of the visualisation to visually examine the impact of a user story or an issue on the system. They can reveal the locality and distribution of the design item in question, offering potential insights on the distribution of feature implementation and hence its quality.
-<video width="1213" height="877" controls="true" allowfullscreen="true" poster="video captures/ContextualActionswithArtefactTraceability.png">
-  <source src="https://www.dropbox.com/s/7h4q6yamnz7clor/Artefact%20Traceability%20with%20Visualisation.mp4" type="video/mp4">
+
+<video width="1718" height="1051" controls="true" allowfullscreen="true" poster="video captures/ContextualActionswithArtefactTraceability2.png">
+  <source src="https://capture.dropbox.com/Ko0YKSNsSnOgBEep" type="video/mp4">
 </video>
 
 ### 7. Visual Artefact Traceability 
