@@ -97,7 +97,7 @@ For example, the clipt below demonstrates how the developer can readily find all
 
 It then shows how the user can make use of the visualisation to visually examine the impact of a user story or an issue on the system. They can reveal the locality and distribution of the design item in question, offering potential insights on the distribution of feature implementation and hence its quality.
 
-<iframe width="1181" height="722" src="https://drive.google.com/file/d/11O6qYpFK-eCzmnqQvRX7-kaacSbKm126/view?usp=sharing" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1181" height="722" src="https://drive.google.com/file/d/11O6qYpFK-eCzmnqQvRX7-kaacSbKm126/view?usp=sharing" frameborder="0" allow="autoplay;" allowfullscreen></iframe>
 
 ### 7. Visual Artefact Traceability 
 AgileInsight enables visual artefact traceability right in your vscode. You can jump from an issue right to its individual code items that implements it, and vice versa. The novel visualisation mapping allows you to visually see the location of your issues (or features) across the structure of your system.  
