@@ -65,10 +65,16 @@ AgileInsight integrates your authorised agile developmemt dashboards into vscode
 AgileInsight offers three ways for developers to tag their source code during development. The tagging involves an automated three-legged operation where code items are linked to design items (e.g., an issue or user story) in source code, in versioning repository, and on the agile dashboard where design items are kept. Presently a developer needs to provide either the code item or the design item in concern, however future release will reduce that to user only confirming the items that are to be tagged (see on-commit method).
 
 #### On-Commit:
+After a developer has contributed some changes and is about to commit there changes, AgileInsight detects any changed code items (e.g., methods, classes) that are eligible for tagging, and prompts the user to do so if they wish. In future, this will be further automated to checkboxes so user only needs one click to confirm the tagging.[^checkboxes]
+
+[^checkboxes]: <sup>Vscode's native viewlets API does not required felxibility</sup> 
+
 
 <video width="1154" height="874" controls="true" allowfullscreen="true" poster="video captures/On-CommitTagging.png">
   <source src="video captures/On-CommitTagging.mp4" type="video/mp4">
 </video>
+
+<sup>▶︎ _Authorisation is only needed once, and will be retained across different workspaces of your vscode._</sup>
 
 #### CI Initiated:
 
