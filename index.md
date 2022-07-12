@@ -161,11 +161,12 @@ Displaying a total of 409 Go source files.
 <img width="1538" alt="Screen Shot 2022-04-12 at 12 53 33 AM" src="https://user-images.githubusercontent.com/31612240/178551846-12ed6ac8-e8b2-4966-a22b-f16fc440669c.png">
 <sup>▶︎ _Repository: https://github.com/django/django. Date: 10th April, 2022</sup>
 
-### VSCODE
+### VSCODE (JavaScript)
+A visualisation of Vscode’s main Github branch, consisting of a total of 3280 files, spanning Typescript, JavaScript, HTML, and CSS source code. 
 ![Screen Shot 2022-04-27 at 9 53 16 PM](https://user-images.githubusercontent.com/31612240/178550039-61cfc5ad-39b0-4f53-b838-36589f193b22.png)
 ![Screen Shot 2022-04-27 at 9 59 36 PM](https://user-images.githubusercontent.com/31612240/178550149-68b8ba13-fe5e-4072-a2bf-b9a374bf98b2.png)
 ![Screen Shot 2022-04-28 at 12 39 32 AM](https://user-images.githubusercontent.com/31612240/178550223-afea3b41-f776-4044-b157-580a2cc4b541.png)
-<sup>▶︎ _Open image in new tab to see full resolution._</sup>
+<sup>▶︎ _Repository: [https://github.com/microsoft/vscode]. Date: 27th April, 2022._</sup>
 
 ### Isitio (Go)
 A visualisation of the microservices platform, ISTIO, consisting of 1391 files of Go language source code. 
