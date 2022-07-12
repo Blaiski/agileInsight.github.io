@@ -62,10 +62,19 @@ AgileInsight integrates your authorised agile developmemt dashboards into vscode
 
 
 ### 5. Tagging Your source code
->TODO: include a video with shour description. show the main methods: 
+AgileInsight offers three ways for developers to tag their source code during development. The tagging involves an automated three-legged operation where code items are linked to design items (e.g., an issue or user story) in source code, in versioning repository, and on the agile dashboard where design items are kept. Presently a developer needs to provide either the code item or the design item in concern, however future release will reduce that to user only confirming the items that are to be tagged (see on-commit method).
 #### On-Commit:
+<video width="1150" height="775" controls="true" allowfullscreen="true" poster="video captures/On-Commit.png">
+  <source src="video captures/On-Commit.mp4" type="video/mp4">
+</video>
 #### CI Initiated:
+<video width="1150" height="775" controls="true" allowfullscreen="true" poster="video captures/CI Initiated.png">
+  <source src="video captures/CI Initiated.mp4" type="video/mp4">
+</video>
 #### DI Initiated:
+<video width="1150" height="775" controls="true" allowfullscreen="true" poster="video captures/DI Initiated.png">
+  <source src="video captures/DI Initiated.mp4" type="video/mp4">
+</video>
 
 ### 6. Interacting with your design items in source code (Contextual actions and artefact traceability)
 >TODO: include mostly pics I think.
@@ -100,10 +109,5 @@ Above is an explanation of visualised code items, detailing the color mappings u
 >Should I include this?
 
 [^1]: <sup>For city metaphor, see [Wettel, Richard, and Michele Lanza. 2007. “Visualizing Software Systems as Cities.” In VISSOFT 2007 - Proceedings of the 4th IEEE International Workshop on Visualizing Software for Understanding and Analysis, 92–99.](https://doi.org/10.1109/VISSOF.2007.4290706) and for software maps see [Bohnet, Johannes, and Jürgen Döllner. 2011. “Monitoring Code Quality and Development Activity by Software Maps.” Proceedings - International Conference on Software Engineering, 9–16.](https://doi.org/10.1145/1985362.1985365). Both are based on the heirarchical treemap containment approach introduced by Johnson and Shneiderman [Johnson, Brian, and Ben Shneiderman. 1991. “Tree-Maps: A Space-Filling Approach to the Visualization of Hierarchical Information Structures.” Proceedings of the 2nd Conference on Visualization 1991, VIS 1991, 284–91.](https://doi.org/10.1109/VISUAL.1991.175815)</sup>
-
-
-<video width="824" height="576" controls="true" allowfullscreen="true" poster="Screen Shot 2022-04-12 at 12.37.28 AM.png">
-  <source src="Agile Dashboard Integration (Contextual Actions).mp4" type="video/mp4">
-</video>
 
 ---
