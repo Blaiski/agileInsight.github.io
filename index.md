@@ -124,13 +124,13 @@ AgileInsight offers a novel language-agnostic visualisation of source code. Belo
 
 <sup>▶︎ _Note that the scenes show extensive number of components due to the fact that the entire master (or main) branch was used to generate the visualisation. The date refers to when the repository was pulled._</sup>
 
-### KERAS (Python)
+### 1. KERAS (Python)
 Python’s deep learning API consisting of 661 python files.
 <img width="1538" alt="Screen Shot 2022-04-12 at 12 36 27 AM" src="https://user-images.githubusercontent.com/31612240/178524432-c48b612f-9dfa-47ab-b361-4a711071738c.png">
 <img width="1538" alt="Screen Shot 2022-04-12 at 12 37 28 AM" src="https://user-images.githubusercontent.com/31612240/178524511-7deb8ea5-ab7c-4f7e-befc-254666c51e36.png">
 
 <sup>▶︎ _Open image in new tab to see full resolution._</sup>
-<sup>▶︎ _Repository: [https://github.com/keras-team/keras]. Date: 10th April, 2022_</sup>
+<sup>▶︎ _Repository: [https://github.com/keras-team/keras](). Date: 10th April, 2022_</sup>
 
 ### React (JavaScript)
 A visualisation of Facebook’s React API, consisting of a total of 1874 files, spanning JavaScript, CSS, HTML, Typescript, and C++ source code. 
