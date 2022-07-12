@@ -66,6 +66,9 @@ AgileInsight offers three ways for developers to tag their source code during de
 
 #### On-Commit:
 
+<video width="1154" height="874" controls="true" allowfullscreen="true" poster="video captures/On-CommitTagging.png">
+  <source src="video captures/On-CommitTagging.mp4" type="video/mp4">
+</video>
 
 #### CI Initiated:
 
