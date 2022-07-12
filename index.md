@@ -131,7 +131,7 @@ Python’s deep learning API consisting of 661 python files.
 
 <sup>▶︎ _Open image in new tab to see full resolution._</sup>
 
-<sup>▶︎ _Repository: [https://github.com/keras-team/keras](). Date: 10th April, 2022_</sup>
+<sup>▶︎ _Repository: (https://github.com/keras-team/keras). Date: 10th April, 2022_</sup>
 
 ### 2. React (JavaScript)
 A visualisation of Facebook’s React API, consisting of a total of 1874 files, spanning JavaScript, CSS, HTML, Typescript, and C++ source code. 
