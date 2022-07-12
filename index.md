@@ -134,6 +134,13 @@ AgileInsight offers a novel language-agnostic visualisation of source code. Belo
 ![Screen Shot 2022-04-27 at 7 02 34 PM](https://user-images.githubusercontent.com/31612240/178526387-9bd3b41e-424c-442c-b6ca-1eae95d6b6d6.png)
 ![Screen Shot 2022-04-27 at 6 58 16 PM](https://user-images.githubusercontent.com/31612240/178526526-3de2f40e-d0a2-4d5b-8701-33283e56cff3.png)
 
+### AngularJs
+![Screen Shot 2022-04-27 at 5 17 24 PM](https://user-images.githubusercontent.com/31612240/178551311-c3ab3d54-3f65-4f92-b1af-7b8cabeae8dc.png)
+![Screen Shot 2022-04-27 at 5 22 24 PM](https://user-images.githubusercontent.com/31612240/178551360-72c615fe-ffd0-4002-b28b-9c740bd27ed0.png)
+
+### Django
+<img width="1538" alt="Screen Shot 2022-04-12 at 12 54 34 AM" src="https://user-images.githubusercontent.com/31612240/178551764-7001dc33-785b-466d-aef2-3b9cd59ebfb1.png">
+<img width="1538" alt="Screen Shot 2022-04-12 at 12 53 33 AM" src="https://user-images.githubusercontent.com/31612240/178551846-12ed6ac8-e8b2-4966-a22b-f16fc440669c.png">
 
 ### VSCODE
 ![Screen Shot 2022-04-27 at 9 53 16 PM](https://user-images.githubusercontent.com/31612240/178550039-61cfc5ad-39b0-4f53-b838-36589f193b22.png)
@@ -142,9 +149,7 @@ AgileInsight offers a novel language-agnostic visualisation of source code. Belo
 
 
 ### APS.NET Boilerplate
-### AngularJs
-![Screen Shot 2022-04-27 at 5 17 24 PM](https://user-images.githubusercontent.com/31612240/178551311-c3ab3d54-3f65-4f92-b1af-7b8cabeae8dc.png)
-![Screen Shot 2022-04-27 at 5 22 24 PM](https://user-images.githubusercontent.com/31612240/178551360-72c615fe-ffd0-4002-b28b-9c740bd27ed0.png)
+
 
 ### Dataset Loader
 >Should I include this?
