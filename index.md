@@ -146,10 +146,10 @@ AgileInsight offers a novel language-agnostic visualisation of source code. Belo
 ![Screen Shot 2022-04-11 at 7 51 51 PM](https://user-images.githubusercontent.com/31612240/178552499-d17b330c-2681-4871-8c3c-b1ecec75d687.png)
 <sup>▶︎ _Repository: https://github.com/facebook/facebook-ios-sdk. Date: 10th April, 2022._</sup>
 
-### Amazon Web Services SDK for Go Language
+### Amazon Web Services SDK for Go Language (excluding 'Service' Module)
 <img width="1552" alt="Screen Shot 2022-04-11 at 5 41 02 PM" src="https://user-images.githubusercontent.com/31612240/178552877-a4c469ef-bc67-4925-952a-097c4715ccbc.png">
 <img width="1552" alt="Screen Shot 2022-04-11 at 5 41 34 PM" src="https://user-images.githubusercontent.com/31612240/178552902-d4aed912-902b-4b5b-82fe-277e6bf8d3e6.png">
-<sup>▶︎ _Open image in new tab to see full resolution._</sup>
+<sup>▶︎ _Repository: https://github.com/aws/aws-sdk-go. Date: 11th April, 2022</sup>
 
 ### Django (Python)
 <img width="1538" alt="Screen Shot 2022-04-12 at 12 54 34 AM" src="https://user-images.githubusercontent.com/31612240/178551764-7001dc33-785b-466d-aef2-3b9cd59ebfb1.png">
@@ -176,10 +176,10 @@ AgileInsight offers a novel language-agnostic visualisation of source code. Belo
 <img width="1538" alt="Screen Shot 2022-04-11 at 11 31 32 PM" src="https://user-images.githubusercontent.com/31612240/178554477-dea759d8-577f-4810-b9e1-e7758a6efd97.png">
 <sup>▶︎ _Repository: https://github.com/aspnetboilerplate/aspnetboilerplate. Date: 10th April, 2022_</sup>
 
-### CodeHub
+### CodeHub (Csharp)
 <img width="1538" alt="Screen Shot 2022-04-12 at 12 13 37 AM" src="https://user-images.githubusercontent.com/31612240/178555029-d26d009f-679a-4138-b544-e17774c1ddfc.png">
 ![Screen Shot 2022-04-11 at 2 53 47 AM](https://user-images.githubusercontent.com/31612240/178555088-2447db39-bdfe-40d1-9919-1aad2e925ffe.png)
-<sup>▶︎ _Open image in new tab to see full resolution._</sup>
+<sup>▶︎ _Repository: https://github.com/CodeHubApp/CodeHub. Date: 10th April, 2022</sup>
 
 ### ReactiveX (Swift)
 <img width="1538" alt="Screen Shot 2022-04-11 at 10 54 26 PM" src="https://user-images.githubusercontent.com/31612240/178555437-e2dda3f7-55c9-4aee-a0ca-455d8f0ff195.png">
