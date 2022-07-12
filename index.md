@@ -91,11 +91,11 @@ A developer may also initiate the tagging from a particular design item (DI) tha
 </video>
 
 ### 6. Interacting with your design items on the Spot and in source code (Contextual actions and artefact traceability)
-A key feature of AgileInsight is to synchronise design items with their code item implementations. It then offers the developer a number of benefits such as readily knowing what design items a method or class is impacting, performing quick actions on issue and user story cards from within source code, and inspecting the design items from the side explorer and side by side with source code. 
+A key feature of AgileInsight is to synchronise design items with their code item implementations. It then offers the developer a number of benefits such as readily knowing what design items a method or class is impacting, performing quick actions on issue and user story cards from within source code, and inspecting the design items from the side explorer side by side with source code. The video demo below showcases a number of such benefits.
 
-More importantly, it allows the developer to immediately find all the source code items that implement a design item, saving them long hours wasted on searching, flipping and reading through numerous source files. A developer or quality engineer can in fact snowball as much as needed, jumping from a design item to its implementation in source code, from a method down to all the design items that are impacted by it, and so on.
+For example, the clipt below demonstrates how the developer can readily find all the source code items that implement a design item (saving them those long hours wasted on searching, flipping and reading through numerous source files). It shows how a developer or quality engineer can snowball as much as needed, jumping from a design item down to its implementation in source code, from a method down to all the design items that are impacted by it, and so on.
 
-The user can also make use of the visualisation to visually examine the impact of a user story or an issue on the system. They can reveal the locality and distribution of the design item in question, offering potential insights on the distribution of feature implementation and hence its quality.
+It then shows how the user can make use of the visualisation to visually examine the impact of a user story or an issue on the system. They can reveal the locality and distribution of the design item in question, offering potential insights on the distribution of feature implementation and hence its quality.
 <video width="1213" height="877" controls="true" allowfullscreen="true" poster="video captures/Artefact Traceability with Visualisation.png">
   <source src="video captures/Artefact Traceability with Visualisation.mp4" type="video/mp4">
 </video>
