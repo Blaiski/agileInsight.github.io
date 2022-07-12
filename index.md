@@ -43,6 +43,10 @@ After AgileInsight has parsed your source code, you can explore the structure of
 #### Django
 ![iTrust](/screenshots/Django.png)
 
+### Interpreting the visualisation
+![Visualisation Keys](https://user-images.githubusercontent.com/31612240/178110883-e8c6295a-451f-4c2e-9f57-3fd93b2322e8.png)
+Above is an explanation of visualised code items, detailing the color mappings used; White for classes, brown for files, blueish-green for methods & functions, red for structs, pink for namespaces, and beige for folders. The grey platform is the workspace folder. The above visualisation was generated using 10 files of different languages, obtained from real-word open-source systems and placed in a single project folder for demonstration purposes. 
+
 ### 3. Authorising Access to your Jira or Trello Dashboard
 AgileInsight uses oauth to ask permission to access data on your agile dashboards, in much the same way that you would allow vscode and other IDEs to access your source control repository.
 
@@ -106,10 +110,6 @@ AgileInsight enables visual artefact traceability right in your vscode. You can 
   <source src="video captures/Artefact Traceability with Visualisation.mp4" type="video/mp4">
 </video>
 
-#### Interpreting the visualisation
-![Visualisation Keys](https://user-images.githubusercontent.com/31612240/178110883-e8c6295a-451f-4c2e-9f57-3fd93b2322e8.png)
-Above is an explanation of visualised code items, detailing the color mappings used; White for classes, brown for files, blueish-green for methods & functions, red for structs, pink for namespaces, and beige for folders. The grey platform is the workspace folder. The above visualisation was generated using 10 files of different languages, obtained from real-word open-source systems and placed in a single project folder for demonstration purposes. 
-
 
 ### 8. Find how the implementation of your issue or user story is distributed across your system
 >TODO: include a video with shour description. Include pics too.
@@ -131,36 +131,36 @@ Python’s deep learning API consisting of 661 python files.
 
 <sup>▶︎ _Open image in new tab to see full resolution._</sup>
 
-<sup>▶︎ _Repository: https://github.com/keras-team/keras. Date: 10th April, 2022_</sup>
+<sup>▶︎ _Repository: [https://github.com/keras-team/keras](https://github.com/keras-team/keras). Date: 10th April, 2022_</sup>
 
 ### 2. React (JavaScript)
 A visualisation of Facebook’s React API, consisting of a total of 1874 files, spanning JavaScript, CSS, HTML, Typescript, and C++ source code. 
 ![Screen Shot 2022-04-27 at 7 02 34 PM](https://user-images.githubusercontent.com/31612240/178526387-9bd3b41e-424c-442c-b6ca-1eae95d6b6d6.png)
 ![Screen Shot 2022-04-27 at 6 58 16 PM](https://user-images.githubusercontent.com/31612240/178526526-3de2f40e-d0a2-4d5b-8701-33283e56cff3.png)
-<sup>▶︎ _Repository: https://github.com/facebook/react. Date: 10th April, 2022_</sup>
+<sup>▶︎ _Repository: [https://github.com/facebook/react](https://github.com/facebook/react). Date: 10th April, 2022_</sup>
 
 ### 3. AngularJs (JavaScript)
 Consisting of 849 JavaScript source code files.
 ![Screen Shot 2022-04-27 at 5 17 24 PM](https://user-images.githubusercontent.com/31612240/178551311-c3ab3d54-3f65-4f92-b1af-7b8cabeae8dc.png)
 ![Screen Shot 2022-04-27 at 5 22 24 PM](https://user-images.githubusercontent.com/31612240/178551360-72c615fe-ffd0-4002-b28b-9c740bd27ed0.png)
-<sup>▶︎ _Repository: https://github.com/angular/angular.js. Date: 10th April, 2022._</sup>
+<sup>▶︎ _Repository: [https://github.com/angular/angular.js](https://github.com/angular/angular.js). Date: 10th April, 2022._</sup>
 
 ### 4. Facebook iOS SDK (Swift)
 Facebook’s API for iOS represented by consisting of a total of 779 files, spanning Swift, Objective-C, and JavaScript source code.
 ![Screen Shot 2022-04-11 at 7 46 39 PM](https://user-images.githubusercontent.com/31612240/178552438-c797bee2-4e7a-49bd-9fc6-070e5e0bafad.png)
 ![Screen Shot 2022-04-11 at 7 51 51 PM](https://user-images.githubusercontent.com/31612240/178552499-d17b330c-2681-4871-8c3c-b1ecec75d687.png)
-<sup>▶︎ _Repository: https://github.com/facebook/facebook-ios-sdk. Date: 10th April, 2022._</sup>
+<sup>▶︎ _Repository: [https://github.com/facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk). Date: 10th April, 2022._</sup>
 
 ### 5. Amazon Web Services SDK for Go Language (excluding 'Service' Module)
 Displaying a total of 409 Go source files.
 <img width="1552" alt="Screen Shot 2022-04-11 at 5 41 02 PM" src="https://user-images.githubusercontent.com/31612240/178552877-a4c469ef-bc67-4925-952a-097c4715ccbc.png">
 <img width="1552" alt="Screen Shot 2022-04-11 at 5 41 34 PM" src="https://user-images.githubusercontent.com/31612240/178552902-d4aed912-902b-4b5b-82fe-277e6bf8d3e6.png">
-<sup>▶︎ _Repository: https://github.com/aws/aws-sdk-go. Date: 11th April, 2022</sup>
+<sup>▶︎ _Repository: [https://github.com/aws/aws-sdk-go](https://github.com/aws/aws-sdk-go). Date: 11th April, 2022</sup>
 
 ### 6. Django (Python)
 <img width="1538" alt="Screen Shot 2022-04-12 at 12 54 34 AM" src="https://user-images.githubusercontent.com/31612240/178551764-7001dc33-785b-466d-aef2-3b9cd59ebfb1.png">
 <img width="1538" alt="Screen Shot 2022-04-12 at 12 53 33 AM" src="https://user-images.githubusercontent.com/31612240/178551846-12ed6ac8-e8b2-4966-a22b-f16fc440669c.png">
-<sup>▶︎ _Repository: https://github.com/django/django. Date: 10th April, 2022</sup>
+<sup>▶︎ _Repository: [https://github.com/django/django](https://github.com/django/django). Date: 10th April, 2022</sup>
 
 ### 7. VSCODE (JavaScript)
 A visualisation of Vscode’s main Github branch, consisting of a total of 3280 files, spanning Typescript, JavaScript, HTML, and CSS source code. 
@@ -172,31 +172,31 @@ A visualisation of Vscode’s main Github branch, consisting of a total of 3280 
 ### 8. Isitio (Go)
 A visualisation of the microservices platform, ISTIO, consisting of 1391 files of Go language source code. 
 <img width="1552" alt="Screen Shot 2022-04-11 at 6 34 16 PM" src="https://user-images.githubusercontent.com/31612240/178553524-b3a1dd9d-a30d-4b43-8a1a-e11628ff7591.png">
-<sup>▶︎ _Repository: https://github.com/istio/istio. Date: 11th April, 2022._</sup>
+<sup>▶︎ _Repository: [https://github.com/istio/istio](https://github.com/istio/istio). Date: 11th April, 2022._</sup>
 
 ### 9. Micro (Go)
 Consisting of 586 Go source code files.
 ![Screen Shot 2022-04-11 at 7 03 39 PM](https://user-images.githubusercontent.com/31612240/178553816-b658df81-c8a2-4ed6-a0ed-737e0f361aa7.png)
 ![Screen Shot 2022-04-11 at 7 04 19 PM](https://user-images.githubusercontent.com/31612240/178553785-4c473a39-25af-4d44-b849-3fdfc406d966.png)
-<sup>▶︎ _Repository: https://github.com/micro/micro. Date: 11th April, 2022_</sup>
+<sup>▶︎ _Repository: [https://github.com/micro/micro](https://github.com/micro/micro). Date: 11th April, 2022_</sup>
 
 ### 10. APS.NET Boilerplate (Csharp)
 ASP.NET Boilerplate API consisting of a total of 1401 files, spread across Csharp, JavaScript, Typescript, and CSS source code.
 <img width="1538" alt="Screen Shot 2022-04-11 at 11 25 32 PM" src="https://user-images.githubusercontent.com/31612240/178554541-6828b337-0773-40c9-bcd6-6c9d7e15709c.png">
 <img width="1538" alt="Screen Shot 2022-04-11 at 11 31 32 PM" src="https://user-images.githubusercontent.com/31612240/178554477-dea759d8-577f-4810-b9e1-e7758a6efd97.png">
-<sup>▶︎ _Repository: https://github.com/aspnetboilerplate/aspnetboilerplate. Date: 10th April, 2022_</sup>
+<sup>▶︎ _Repository: [https://github.com/aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate). Date: 10th April, 2022_</sup>
 
 ### 11. CodeHub (Csharp)
 CodeHub application for iOS devices consisting of a total of 377 files ranging between Csharp, JavaScript, and CSS source code. 
 <img width="1538" alt="Screen Shot 2022-04-12 at 12 13 37 AM" src="https://user-images.githubusercontent.com/31612240/178555029-d26d009f-679a-4138-b544-e17774c1ddfc.png">
 ![Screen Shot 2022-04-11 at 2 53 47 AM](https://user-images.githubusercontent.com/31612240/178555088-2447db39-bdfe-40d1-9919-1aad2e925ffe.png)
-<sup>▶︎ _Repository: https://github.com/CodeHubApp/CodeHub. Date: 10th April, 2022</sup>
+<sup>▶︎ _Repository: [https://github.com/CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub). Date: 10th April, 2022</sup>
 
 ### 12. ReactiveX (Swift)
 ReactiveX API for Swift consisting of 996 files of Swift and Objective-C source code.
 <img width="1538" alt="Screen Shot 2022-04-11 at 10 54 26 PM" src="https://user-images.githubusercontent.com/31612240/178555437-e2dda3f7-55c9-4aee-a0ca-455d8f0ff195.png">
 <img width="1538" alt="Screen Shot 2022-04-11 at 10 54 46 PM" src="https://user-images.githubusercontent.com/31612240/178556117-e05495ad-c2cc-4ac3-89d2-ac0929e41a44.png">
-<sup>▶︎ _Repository: https://github.com/ReactiveX/RxSwift. Date: 10th April, 2022_</sup>
+<sup>▶︎ _Repository: [https://github.com/ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift). Date: 10th April, 2022_</sup>
 
 ### Dataset Loader
 >Should I include this?
