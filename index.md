@@ -65,7 +65,7 @@ AgileInsight integrates your authorised agile developmemt dashboards into vscode
 AgileInsight offers three ways for developers to tag their source code during development. The tagging involves an automated three-legged operation where code items are linked to design items (e.g., an issue or user story) in source code, in versioning repository, and on the agile dashboard where design items are kept. Presently a developer needs to provide either the code item or the design item in concern, however future release will reduce that to user only confirming the items that are to be tagged (see on-commit method).
 
 #### On-Commit:
-After a developer has contributed some changes and is about to commit there changes, AgileInsight detects any changed code items (e.g., methods, classes) that are eligible for tagging, and prompts the user to do so if they wish. In future, this will be further automated to checkboxes so user only needs one click to confirm the tagging.[^checkboxes]
+After a developer has contributed some changes to their source code and is about to commit the changes, AgileInsight detects any changed code items (e.g., methods, classes) that are eligible for tagging, and prompts the user to do so if they wish. In future, this will be further automated to checkboxes so the user only needs one click to confirm the tagging.[^checkboxes]
 
 [^checkboxes]: <sup>Vscode's native viewlets API does not required felxibility</sup> 
 
@@ -77,7 +77,11 @@ After a developer has contributed some changes and is about to commit there chan
 <sup>▶︎ _Those unnecessary notifications are only kept for now for development-time purposes._</sup>
 
 #### CI Initiated:
+Developer can initiate the tagging process for eligible inidividual code items (classes, methods, functions, structs, and so on) right from their source code editor. This can be done by a hover action or via a shortcut command.
 
+<video width="1154" height="874" controls="true" allowfullscreen="true" poster="video captures/CI_InitiatedTagging.png">
+  <source src="video captures/CI_InitiatedTagging.mp4" type="video/mp4">
+</video>
 
 #### DI Initiated:
 
