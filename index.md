@@ -98,7 +98,7 @@ For example, the clipt below demonstrates how the developer can readily find all
 It then shows how the user can make use of the visualisation to visually examine the impact of a user story or an issue on the system. They can reveal the locality and distribution of the design item in question, offering potential insights on the distribution of feature implementation and hence its quality.
 
 <video width="1718" height="1051" controls="true" allowfullscreen="true" poster="video captures/ContextualActionswithArtefactTraceability2.png">
-  <source src="https://capture.dropbox.com/Ko0YKSNsSnOgBEep" type="video/mp4">
+  <source src="https://youtu.be/kjg3zkbRtrE" type="video/mp4">
 </video>
 
 ### 7. Visual Artefact Traceability 
