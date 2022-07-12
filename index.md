@@ -43,7 +43,7 @@ After AgileInsight has parsed your source code, you can explore the structure of
 #### Django
 ![iTrust](/screenshots/Django.png)
 
-##### 2.1 Interpreting the visualisation
+##### Interpreting the visualisation
 ![Visualisation Keys](https://user-images.githubusercontent.com/31612240/178110883-e8c6295a-451f-4c2e-9f57-3fd93b2322e8.png)
 Above is an explanation of visualised code items, detailing the color mappings used; White for classes, brown for files, blueish-green for methods & functions, red for structs, pink for namespaces, and beige for folders. The grey platform is the workspace folder. The above visualisation was generated using 10 files of different languages, obtained from real-word open-source systems and placed in a single project folder for demonstration purposes. 
 
@@ -155,12 +155,13 @@ Facebook’s API for iOS represented by consisting of a total of 779 files, span
 Displaying a total of 409 Go source files.
 <img width="1552" alt="Screen Shot 2022-04-11 at 5 41 02 PM" src="https://user-images.githubusercontent.com/31612240/178552877-a4c469ef-bc67-4925-952a-097c4715ccbc.png">
 <img width="1552" alt="Screen Shot 2022-04-11 at 5 41 34 PM" src="https://user-images.githubusercontent.com/31612240/178552902-d4aed912-902b-4b5b-82fe-277e6bf8d3e6.png">
-<sup>▶︎ _Repository: [https://github.com/aws/aws-sdk-go](https://github.com/aws/aws-sdk-go). Date: 11th April, 2022</sup>
+<sup>▶︎ _Repository: [https://github.com/aws/aws-sdk-go](https://github.com/aws/aws-sdk-go). Date: 11th April, 2022._</sup>
 
 ### 6. Django (Python)
+Django library consisting of a total of 889 files, spanning Python, JavaScript, HTML, and CSS.
 <img width="1538" alt="Screen Shot 2022-04-12 at 12 54 34 AM" src="https://user-images.githubusercontent.com/31612240/178551764-7001dc33-785b-466d-aef2-3b9cd59ebfb1.png">
 <img width="1538" alt="Screen Shot 2022-04-12 at 12 53 33 AM" src="https://user-images.githubusercontent.com/31612240/178551846-12ed6ac8-e8b2-4966-a22b-f16fc440669c.png">
-<sup>▶︎ _Repository: [https://github.com/django/django](https://github.com/django/django). Date: 10th April, 2022</sup>
+<sup>▶︎ _Repository: [https://github.com/django/django](https://github.com/django/django). Date: 10th April, 2022._</sup>
 
 ### 7. VSCODE (JavaScript)
 A visualisation of Vscode’s main Github branch, consisting of a total of 3280 files, spanning Typescript, JavaScript, HTML, and CSS source code. 
@@ -190,7 +191,7 @@ ASP.NET Boilerplate API consisting of a total of 1401 files, spread across Cshar
 CodeHub application for iOS devices consisting of a total of 377 files ranging between Csharp, JavaScript, and CSS source code. 
 <img width="1538" alt="Screen Shot 2022-04-12 at 12 13 37 AM" src="https://user-images.githubusercontent.com/31612240/178555029-d26d009f-679a-4138-b544-e17774c1ddfc.png">
 ![Screen Shot 2022-04-11 at 2 53 47 AM](https://user-images.githubusercontent.com/31612240/178555088-2447db39-bdfe-40d1-9919-1aad2e925ffe.png)
-<sup>▶︎ _Repository: [https://github.com/CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub). Date: 10th April, 2022</sup>
+<sup>▶︎ _Repository: [https://github.com/CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub). Date: 10th April, 2022._</sup>
 
 ### 12. ReactiveX (Swift)
 ReactiveX API for Swift consisting of 996 files of Swift and Objective-C source code.
