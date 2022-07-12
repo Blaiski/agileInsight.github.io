@@ -74,7 +74,7 @@ After a developer has contributed some changes and is about to commit there chan
   <source src="video captures/On-CommitTagging.mp4" type="video/mp4">
 </video>
 
-<sup>▶︎ _Authorisation is only needed once, and will be retained across different workspaces of your vscode._</sup>
+<sup>▶︎ _Those unnecessary notifications are only kept for now for development-time purposes._</sup>
 
 #### CI Initiated:
 
