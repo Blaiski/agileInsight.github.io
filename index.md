@@ -111,9 +111,6 @@ AgileInsight enables visual artefact traceability right in your vscode. You can 
 </video>
 
 
-### 8. Find how the implementation of your issue or user story is distributed across your system
->TODO: include a video with shour description. Include pics too.
-
 <br>
 
 ***
