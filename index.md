@@ -77,13 +77,18 @@ After a developer has contributed some changes to their source code and is about
 <sup>▶︎ _Those unnecessary notifications are only kept for now for development-time purposes._</sup>
 
 #### CI Initiated:
-Developer can initiate the tagging process for eligible inidividual code items (classes, methods, functions, structs, and so on) right from their source code editor. This can be done by a hover action or via a shortcut command.
+A developer can initiate the tagging process for eligible inidividual code items (classes, methods, functions, structs, and so on) right from their source code editor. This can be done through a hover action or via a shortcut command.
+
+<sup>▶︎ _CI stands for Code Item._</sup> 
 <video width="1260" height="787" controls="true" allowfullscreen="true" poster="video captures/CI_InitiatedTagging.png">
   <source src="video captures/CI_InitiatedTagging.mp4" type="video/mp4">
 </video>
 
 #### DI Initiated:
-
+A developer may also initiate the tagging from a particular design item (DI) that, for example, they have just implemented or added changes to. Multiple code items can be selected at one time.
+<video width="1260" height="787" controls="true" allowfullscreen="true" poster="video captures/DI_InitiatedTagging.png">
+  <source src="video captures/DI_InitiatedTagging.mp4" type="video/mp4">
+</video>
 
 ### 6. Interacting with your design items in source code (Contextual actions and artefact traceability)
 >TODO: include mostly pics I think.
