@@ -78,8 +78,7 @@ After a developer has contributed some changes to their source code and is about
 
 #### CI Initiated:
 Developer can initiate the tagging process for eligible inidividual code items (classes, methods, functions, structs, and so on) right from their source code editor. This can be done by a hover action or via a shortcut command.
-
-<video width="1154" height="874" controls="true" allowfullscreen="true" poster="video captures/CI_InitiatedTagging.png">
+<video width="1260" height="787" controls="true" allowfullscreen="true" poster="video captures/CI_InitiatedTagging.png">
   <source src="video captures/CI_InitiatedTagging.mp4" type="video/mp4">
 </video>
 
