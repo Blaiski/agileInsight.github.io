@@ -118,8 +118,16 @@ Above is an explanation of visualised code items, detailing the color mappings u
 
 
 ## Showcase of landscape visualisation of various open-source systems
-*Note that the visualisation shows extensive components because the entire master (or main) branch is used. The date refers to the date that the repository was pulled*
+AgileInsight offers a novel language-agnostic visualisation of source code. Below are screenshots of a number of open-source systems that were downloaded directly from their public GitHub repositories and visualised using AgileInsight. The diverse scenery seen in the views below, demonstrates the ability of AgileInsight in exposing the structure of a system. The dimensions of the buildings reflects the size and complexity of the corresponding source files and the structural elements they contain. For more information, please see[^thesis]
+
+<sup>▶︎ _Note that the scenes show extensive number of components due to the fact that the entire master (or main) branch was used to generate the visualisation. The date refers to the date that the repository was pulled_</sup>
+
 ### KERAS
+<img width="1538" alt="Screen Shot 2022-04-12 at 12 36 27 AM" src="https://user-images.githubusercontent.com/31612240/178524432-c48b612f-9dfa-47ab-b361-4a711071738c.png">
+<img width="1538" alt="Screen Shot 2022-04-12 at 12 37 28 AM" src="https://user-images.githubusercontent.com/31612240/178524511-7deb8ea5-ab7c-4f7e-befc-254666c51e36.png">
+
+
+
 ### VSCODE
 ### APS.NET Boilerplate
 ### AngularJs
