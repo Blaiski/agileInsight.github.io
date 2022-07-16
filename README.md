@@ -1,3 +1,3 @@
 # agileInsight.page
 
-[AgileInsight Profile Page](https://blaiski.github.io/agileInsight.page/) is a simple showcase for the tool developed as part of my doctoral research.
+[This page](https://blaiski.github.io/agileInsight.page/) is a simple showcase of AgileInsight tool, which was developed as part of my doctoral research, 2022.
