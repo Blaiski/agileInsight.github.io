@@ -197,10 +197,11 @@ ReactiveX API for Swift consisting of 996 files of Swift and Objective-C source 
 <sup>▶︎ _Repository: [https://github.com/ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift). Date: 10th April, 2022_</sup>
 
 ### Dataset Loader
->Should I include this?
+> AgileInsight's three-legged tagging process is fully automated, and can be used to automatically load prexisting tracelink data. Part of validating the process involved loading tracelink data from two realworld datasets. This [video here](https://vimeo.com/730516894) illustrates an example of how the datasets were loaded automatically. In this case, a simple loader was written that reads the tracelinks off an external file and triggers the tagging process as needed. For more info, please see [^thesis] 
+
+<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/730516894?h=d271e6b616&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dataset Loading.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 [^1]: <sup>For city metaphor, see [Wettel, Richard, and Michele Lanza. 2007. “Visualizing Software Systems as Cities.” In VISSOFT 2007 - Proceedings of the 4th IEEE International Workshop on Visualizing Software for Understanding and Analysis, 92–99.](https://doi.org/10.1109/VISSOF.2007.4290706) and for software maps see [Bohnet, Johannes, and Jürgen Döllner. 2011. “Monitoring Code Quality and Development Activity by Software Maps.” Proceedings - International Conference on Software Engineering, 9–16.](https://doi.org/10.1145/1985362.1985365). Both are based on the heirarchical treemap containment approach introduced by Johnson and Shneiderman [Johnson, Brian, and Ben Shneiderman. 1991. “Tree-Maps: A Space-Filling Approach to the Visualization of Hierarchical Information Structures.” Proceedings of the 2nd Conference on Visualization 1991, VIS 1991, 284–91.](https://doi.org/10.1109/VISUAL.1991.175815)</sup>
 
 ---
 
-<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/730516894?h=d271e6b616&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dataset Loading.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
