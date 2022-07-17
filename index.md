@@ -199,7 +199,7 @@ ReactiveX API for Swift consisting of 996 files of Swift and Objective-C source 
 ---
 
 ### Dataset Loader
-AgileInsight's three-legged tagging process is fully automated, and can be used to automatically load prexisting tracelink data. Part of validating the process involved loading tracelink data from two realworld datasets. This [raw video here](https://player.vimeo.com/video/730516894) illustrates an example of how the datasets were loaded automatically. In this case, a simple loader was written that reads the tracelinks data off an external file, and then triggers the tagging process as needed. For more info, please see [^thesis]. 
+AgileInsight's three-legged tagging process is fully automated, and can be used to automatically load prexisting tracelink data. Part of validating the process involved loading tracelink data from two realworld datasets. This [raw video here](https://player.vimeo.com/video/730725518) illustrates an example of how the datasets were loaded automatically. In this case, a simple loader was written that reads the tracelinks data off an external file, and then triggers the tagging process as needed. For more info, please see [^thesis]. 
 
 
 
