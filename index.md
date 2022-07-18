@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6843841.svg)](https://doi.org/10.5281/zenodo.6843841)
+
 # Welcome to AgileInsight Profile Page
 
 AgileInsight is a vscode extension created as part of my doctoral research[^thesis]. As user, it offers you the following:
