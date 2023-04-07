@@ -43,7 +43,7 @@ After AgileInsight has parsed your source code, you can explore the structure of
 #### Asp.Net Boilerplate
 ![iTrust](/screenshots/ASP.NETBoilerplate.png)
 #### Django
-![iTrust](/screenshots/Django.png)
+![iTrust](/screenshots/django.png)
 
 ##### Interpreting the visualisation
 ![Visualisation Keys](https://user-images.githubusercontent.com/31612240/178110883-e8c6295a-451f-4c2e-9f57-3fd93b2322e8.png)
